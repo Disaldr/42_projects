@@ -13,3 +13,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = https://github.com/Disaldr/pipex.git
+[submodule "net_practice"]
+	path = net_practice
+	url = https://github.com/Disaldr/net_practice.git
